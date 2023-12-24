@@ -1,0 +1,7 @@
+.pointer {
+  cursor: pointer;
+}
+
+.break-before {
+  page-break-before: always;
+}
